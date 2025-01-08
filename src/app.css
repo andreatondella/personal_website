@@ -1,0 +1,29 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@200;300;400;500&display=swap');
+
+/* ...existing styles... */
+
+:root {
+  --color-background: #e7e7e7;
+  --color-background-alt: #888888;
+  --color-border-active: #708BDB;
+  --color-border-default: #d1d1d1;
+  --color-highlight: #f0d05d;
+  --color-primary: #708BDB;
+  --color-primary-active: #5d74b8;
+  --color-text-default: #262626;
+  --color-text-muted: #4f4f4f;
+
+  --font-family-body: "DM Sans", system-ui, sans-serif;
+  --font-family-display: "DM Sans", system-ui, sans-serif;
+}
+
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-weight: 300;
+  /* ...existing styles... */
+}
+
+/* Remove all Formspree-related styles */
