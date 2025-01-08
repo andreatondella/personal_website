@@ -1,38 +1,48 @@
-# sv
+# ⚡️SvelteKit-Portfolio⚡️
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## A personal portfolio website made using `@sveltejs/kit`.
 
-## Creating a project
+<p align="left">
+    <img width="500" height="auto" src="https://i.imgur.com/60Fpyzo.png" alt="homepagescreenshot" />
+</p>
 
-If you're seeing this, you've probably already done this step. Congrats!
+To view a demo example, **[click here](https://andreatondella.xyz/)**
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Features
 
-# create a new project in my-app
-npx sv create my-app
+- Modern and Minimal UI Design
+- Home, Resume, and Contact sections
+- Contact section made with Formspree integration
+- Ready to be deployed on [Vercel](https://vercel.com/)
+
+# Steps ▶️
+
+```
+# Clone this repository
+$ git clone https://github.com/andreatondella/personal_website
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+```
+# Go into the repository
+$ cd personal_website
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
+```
+# Install dependencies
+$ npm install
 ```
 
-You can preview the production build with `npm run preview`.
+```
+# Start the project in development
+$ npm run dev
+```
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+# Deploy on Vercel 🚀
+
+Deploying your website on Vercel is optional but I recommend is as it offer a great hobby level free tier.
+
+You just need to follow the steps on their website, or ask any good LLM for instructions.
+
+## Authors ❤️
+
+- Andrea - https://github.com/andreatondella
