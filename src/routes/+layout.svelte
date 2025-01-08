@@ -2,9 +2,12 @@
 	import { i18n } from "$lib/i18n";
 	import { ParaglideJS } from "@inlang/paraglide-sveltekit";
 	import '../app.css';
+  import { dev } from '$app/environment';
+  import { injectAnalytics } from '@vercel/analytics/sveltekit';
 	import { page } from '$app/stores';
 	let { children } = $props();
 	let showContactForm = false;
+  injectAnalytics({ mode: dev ? 'development' : 'production' });
 </script>
 
 <header>

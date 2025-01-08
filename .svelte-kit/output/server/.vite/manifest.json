@@ -1,0 +1,174 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_paths.js"
+    ]
+  },
+  "_client.js": {
+    "file": "chunks/client.js",
+    "name": "client",
+    "imports": [
+      "_exports.js",
+      "_index.js"
+    ]
+  },
+  "_constants.js": {
+    "file": "chunks/constants.js",
+    "name": "constants"
+  },
+  "_equality.js": {
+    "file": "chunks/equality.js",
+    "name": "equality"
+  },
+  "_escaping.js": {
+    "file": "chunks/escaping.js",
+    "name": "escaping"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports",
+    "imports": [
+      "_index.js",
+      "_equality.js"
+    ]
+  },
+  "_i18n.js": {
+    "file": "chunks/i18n.js",
+    "name": "i18n",
+    "imports": [
+      "_client.js",
+      "_paths.js",
+      "_constants.js",
+      "_index.js",
+      "_exports.js"
+    ]
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index"
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js",
+    "name": "index",
+    "imports": [
+      "_escaping.js",
+      "_constants.js",
+      "_index.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_index.js",
+      "_equality.js",
+      "_paths.js"
+    ],
+    "dynamicImports": [
+      "src/hooks.server.ts",
+      "src/hooks.ts"
+    ]
+  },
+  "_paths.js": {
+    "file": "chunks/paths.js",
+    "name": "paths"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_escaping.js",
+      "_index.js",
+      "_client.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_paths.js",
+      "_exports.js",
+      "_internal.js"
+    ]
+  },
+  "src/hooks.server.ts": {
+    "file": "chunks/hooks.server.js",
+    "name": "hooks.server",
+    "src": "src/hooks.server.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_i18n.js"
+    ]
+  },
+  "src/hooks.ts": {
+    "file": "chunks/hooks.js",
+    "name": "hooks",
+    "src": "src/hooks.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_i18n.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_index2.js",
+      "_i18n.js",
+      "_paths.js",
+      "_exports.js",
+      "_client.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.C8-GmzOP.css"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "css": [
+      "_app/immutable/assets/_page.BQmiBskD.css"
+    ]
+  },
+  "src/routes/contact/+page.svelte": {
+    "file": "entries/pages/contact/_page.svelte.js",
+    "name": "entries/pages/contact/_page.svelte",
+    "src": "src/routes/contact/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BLZOQQwV.css"
+    ]
+  },
+  "src/routes/resume/+page.svelte": {
+    "file": "entries/pages/resume/_page.svelte.js",
+    "name": "entries/pages/resume/_page.svelte",
+    "src": "src/routes/resume/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.D3-CcwjH.css"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+# Hello dear robots. Please follow this rule, will you:
+
+User-agent: *
+Disallow: /documents/
