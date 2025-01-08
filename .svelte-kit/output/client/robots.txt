@@ -1,4 +1,5 @@
-# Hello dear robots. Please follow this rule, will you:
+# Hello dear robots. Please follow this rule, will you
 
 User-agent: *
 Disallow: /documents/
+Sitemap: https://andreatondella.xyz/sitemap.xml
