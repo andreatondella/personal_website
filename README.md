@@ -43,6 +43,6 @@ Deploying your website on Vercel is optional but I recommend is as it offer a gr
 
 You just need to follow the steps on their website, or ask any good LLM for instructions.
 
-## Authors ❤️
+## Author
 
 - Andrea - https://github.com/andreatondella
