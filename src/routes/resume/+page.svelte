@@ -73,6 +73,18 @@
         </div>
       </div>
     </div>
+    <div class="education-item">
+      <div class="item-grid">
+        <p class="timeframe">2010 - 2013</p>
+        <div class="right-column">
+          <div class="institution-location">
+            <p class="institution"><a href="https://www.polito.it" target="_blank" rel="noopener noreferrer">Politecnico di Torino</a></p>
+            <p class="location">Turin, Italy</p>
+          </div>
+          <h3>Bachelor of Science, Material Engineering</h3>
+        </div>
+      </div>
+    </div>
   </section>
 
   <div class="section-header professional-experience-header">
@@ -110,15 +122,24 @@
             <p class="institution"><a href="https://globaltms.net" target="_blank" rel="noopener noreferrer">Global TMS</a></p>
             <p class="location">Madrid, Spain</p>
           </div>
-          <h3>Data Scientist</h3>
-          <p class="description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-          <ul>
-            <li>Key achievement or responsibility</li>
-            <li>Another significant contribution</li>
-            <li>Notable project or initiative</li>
-          </ul>
+          <h3>Lead Data Scientist</h3>
+          <div class="description-group">
+            <p class="description">
+              <em>In house:</em>
+            </p>
+            <ul>
+              <li>Designed and deployed an engagement monitoring platform for influencers and sports federations, leading to a 10% increase in post engagement after one month. Launched with 10+ influencers (1M+ followers each) and 5+ sports teams.</li>
+              <li>Championed data literacy initiatives across the company, fostering a data-driven culture.</li>
+            </ul>
+          </div>
+          <div class="description-group">
+            <p class="description">
+              <em>External Consultant for Microsoft:</em>
+            </p>
+            <ul>
+              <li>Led the deployment of a fan experience suite for LaLiga, integrating cloud-based data consolidation and dashboard reporting, unlocking new revenue streams and improving fan engagement metrics.</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -130,14 +151,11 @@
             <p class="institution"><a href="https://www.qicomposites.com/" target="_blank" rel="noopener noreferrer">Q.I. Composites</a></p>
             <p class="location">Viverone, Italy</p>
           </div>
-          <h3>QA Consultant</h3>
-          <p class="description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <h3>Material Testing QA Analyst</h3>
           <ul>
-            <li>Key achievement or responsibility</li>
-            <li>Another significant contribution</li>
-            <li>Notable project or initiative</li>
+            <li>Built strong client relationships through regular reporting and collaborative process improvements, leading to enhanced customer satisfaction.</li>
+            <li>Developed and implemented QA analysis frameworks and A/B testing for a boutique sports car manufacturer, enabling the successful production and delivery of 500+ vehicles over two years.</li>
+            <li>Spearheaded the company's internal digital transformation by introducing best practices and custom-built software solutions. Reduced response time between surveyors and construction managers by 50% in a major international sailing series.</li>
           </ul>
         </div>
       </div>
@@ -151,13 +169,8 @@
             <p class="location">Roermond, The Netherlands</p>
           </div>
           <h3>R&D Intern</h3>
-          <p class="description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
           <ul>
-            <li>Key achievement or responsibility</li>
-            <li>Another significant contribution</li>
-            <li>Notable project or initiative</li>
+            <li>Invented and patented novel coating generating electricity from waste heat, with application in energy recovery for automotive and heavy industries. Patent n° <a href="https://patents.google.com/patent/US20180090655A1/en" target="_blank" rel="noopener noreferrer" style="color: #2563eb;">WO2016146855A1</a></li>
           </ul>
         </div>
       </div>
@@ -452,6 +465,19 @@
     color: #34495e;
     font-size: 1em;
     order: 3;  /* Ensure description is below job title and location */
+  }
+
+  .description-group {
+    margin: 0.5rem 0;
+    order: 3;
+  }
+
+  .description-group .description {
+    margin: 0.5rem 0 0.25rem 0;
+  }
+
+  .description-group ul {
+    margin-top: 0.25rem;
   }
 
   @media (max-width: 768px) {
