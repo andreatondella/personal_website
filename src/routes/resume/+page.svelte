@@ -102,14 +102,13 @@
             <p class="institution"><a href="https://about.google" target="_blank" rel="noopener noreferrer">Google</a></p>
             <p class="location">Dublin, Ireland</p>
           </div>
-          <h3>Senior Data Analyst</h3>
-          <p class="description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <h3>Senior Data Analyst, Search Ranking Trust & Safety</h3>
           <ul>
-            <li>Key achievement or responsibility</li>
-            <li>Another significant contribution</li>
-            <li>Notable project or initiative</li>
+            <li>Founded the analyst team supporting the development of all safety systems integrated into Search Artificial Intelligence (AI) features and assumed a team lead (TL) role. Launched 10+ prompted / fine-tuned LLM based classifiers for synthetic data generation, production model distillation and metric measurement. Reworked existing safety systems increasing coverage by up to 40% in novel verticals, adding finer grain tuning controls and boosting global precision by up to 10%.</li>
+            <li>Built end-to-end tooling and sampling methodology to measure trust risks across a growing combination of 100+ features and verticals. Snapshots served as the basis for Search wide yearly plannings and fed into Google level OKR. Fully integrated multiple prompt based LLMs in later iterations leading to a 10x reduction in operational costs and a 100x increase in scale, unlocking continuous metrics monitoring.</li>
+            <li>Kick-started a multi-year initiative to review and improve core ranking systems by introducing a new set of problem definitions, designing targeted A/B tests and UX studies to provide engineers with actionable data and insights, and developing page quality classifiers to address key problem areas. This led to five major search-wide public updates receiving overwhelmingly positive press and user feedback, reflected in improved internal performance metrics.</li>
+            <li>Proposed novel data collection template and methodology to measure User Generated Content quality and target longstanding page quality loss patterns. Enabled ranking changes with headroom up to 30% increase in user information satisfaction.</li>
+            <li>Designed multi-dimensional feature level quality metric and related ranking classifier. Launch lead to a 7% increase in feature usage globally.</li>
           </ul>
         </div>
       </div>

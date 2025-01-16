@@ -1,5 +1,5 @@
 <main class="content">
-  <h1 id="top"><strong>Hi there! 👋</strong><br>My name is Andrea <strong>Tondella</strong>.<br>I am a <strong class="highlight">data analyst</strong> based in<br>Dublin, Ireland.</h1>
+  <h1 id="top"><strong>Hi there! 👋</strong><br>My name is Andrea <strong>Tondella</strong>.<br>I work with <strong class="highlight">data</strong>.</h1>
 </main>
 
 <style>
