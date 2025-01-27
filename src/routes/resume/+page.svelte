@@ -1,9 +1,11 @@
 <main class="content">
   <section>
     <h1>Andrea Tondella</h1>
-    <h2 class="subtitle">Data Analyst</h2>
-    <p class="about-text">
-      Professional with more than 5 years of experience in quantitative and scientific research, in industry and academia, with emphasis on analytics and data-driven solutions.<br>Multicultural education based in Italy, the Netherlands and Spain. Creative, and passionate about elegant solutions.<br>Thriving in environments that challenge me to innovate and collaborate.
+    <h2 class="subtitle">Data Expert</h2>
+    <p class="about-text" style="text-align: justify;">
+      Innovative  AI and data expert with a demonstrated track record in product development and optimization across diverse industries and scales. <br>
+      My multicultural experience has shaped me into an effective and empathetic leader, skilled at driving innovation through clear communication across technical and business functions. I have delivered disruptive results in user engagement, core product, and trust metrics by implementing new and creative methodologies and large-scale AI integrations.<br>
+      Passionate about solving complex challenges with simple and elegant solutions, fostering collaboration, and driving impact through data insights and technology advancements.
     </p>
   </section>
 
@@ -73,18 +75,6 @@
         </div>
       </div>
     </div>
-    <div class="education-item">
-      <div class="item-grid">
-        <p class="timeframe">2010 - 2013</p>
-        <div class="right-column">
-          <div class="institution-location">
-            <p class="institution"><a href="https://www.polito.it" target="_blank" rel="noopener noreferrer">Politecnico di Torino</a></p>
-            <p class="location">Turin, Italy</p>
-          </div>
-          <h3>Bachelor of Science, Material Engineering</h3>
-        </div>
-      </div>
-    </div>
   </section>
 
   <div class="section-header professional-experience-header">
@@ -103,13 +93,26 @@
             <p class="location">Dublin, Ireland</p>
           </div>
           <h3>Senior Data Analyst, Search Ranking Trust & Safety</h3>
-          <ul>
-            <li>Founded the analyst team supporting the development of all safety systems integrated into Search Artificial Intelligence (AI) features and assumed a team lead (TL) role. Launched 10+ prompted / fine-tuned LLM based classifiers for synthetic data generation, production model distillation and metric measurement. Reworked existing safety systems increasing coverage by up to 40% in novel verticals, adding finer grain tuning controls and boosting global precision by up to 10%.</li>
-            <li>Built end-to-end tooling and sampling methodology to measure trust risks across a growing combination of 100+ features and verticals. Snapshots served as the basis for Search wide yearly plannings and fed into Google level OKR. Fully integrated multiple prompt based LLMs in later iterations leading to a 10x reduction in operational costs and a 100x increase in scale, unlocking continuous metrics monitoring.</li>
-            <li>Kick-started a multi-year initiative to review and improve core ranking systems by introducing a new set of problem definitions, designing targeted A/B tests and UX studies to provide engineers with actionable data and insights, and developing page quality classifiers to address key problem areas. This led to five major search-wide public updates receiving overwhelmingly positive press and user feedback, reflected in improved internal performance metrics.</li>
-            <li>Proposed novel data collection template and methodology to measure User Generated Content quality and target longstanding page quality loss patterns. Enabled ranking changes with headroom up to 30% increase in user information satisfaction.</li>
-            <li>Designed multi-dimensional feature level quality metric and related ranking classifier. Launch lead to a 7% increase in feature usage globally.</li>
-          </ul>
+            <ul>
+            <li style="text-align: justify;">Founded and led the analyst team (5 people) developing safety systems for all Search AI
+              features, launching 10+ prompted/fine tuned LLM-based classifiers for synthetic data
+              generation, model distillation, and metrics. Enhanced performance, expanding coverage
+              by up to 40% in novel areas, improving tuning controls, and boosting global precision by
+              up to 10%.</li>
+            <li style="text-align: justify;">Developed end-to-end tooling to assess trust risks across 100+ features and verticals,
+              informing yearly Search planning and feeding into Google-level OKRs. Integrated
+              prompt-based LLMs, leading to a 10x reduction in operational costs and a 100x increase
+              in scale, unlocking continuous metrics monitoring.</li>
+            <li style="text-align: justify;">Drove a multi-year initiative to review core ranking systems by redefining problem areas,
+              designing targeted A/B tests and UX studies, and developing improved page level
+              quality classifiers. Enabled three major search-wide public updates with positive press,
+              user feedback, and improved internal metrics.</li>
+            <li style="text-align: justify;">Developed a new data collection methodology to assess User Generated Content quality
+              and address longstanding page quality issues, enabling ranking improvements with up
+              to 30% gains in user satisfaction.</li>
+            <li style="text-align: justify;">Designed multi-dimensional feature level quality metric and related ranking classifier.
+              Launch lead to a 7% increase in feature usage globally.</li>
+            </ul>
         </div>
       </div>
     </div>
@@ -127,8 +130,9 @@
               <em>In house:</em>
             </p>
             <ul>
-              <li>Designed and deployed an engagement monitoring platform for influencers and sports federations, leading to a 10% increase in post engagement after one month. Launched with 10+ influencers (1M+ followers each) and 5+ sports teams.</li>
-              <li>Championed data literacy initiatives across the company, fostering a data-driven culture.</li>
+              <li style="text-align: justify;">Designed and deployed an engagement monitoring platform for influencers and sports
+                federations, leading to a 10% increase in post engagement after one month. Launched
+                with 10+ influencers (1M+ followers each) and 5+ sports teams.</li>
             </ul>
           </div>
           <div class="description-group">
@@ -136,7 +140,9 @@
               <em>External Consultant for Microsoft:</em>
             </p>
             <ul>
-              <li>Led the deployment of a fan experience suite for LaLiga, integrating cloud-based data consolidation and dashboard reporting, unlocking new revenue streams and improving fan engagement metrics.</li>
+              <li style="text-align: justify;">Led the deployment of a fan experience suite for LaLiga, integrating cloud-based data
+                consolidation and dashboard reporting, unlocking new revenue streams and improving
+                fan engagement metrics.</li>
             </ul>
           </div>
         </div>
@@ -152,9 +158,12 @@
           </div>
           <h3>Material Testing QA Analyst</h3>
           <ul>
-            <li>Built strong client relationships through regular reporting and collaborative process improvements, leading to enhanced customer satisfaction.</li>
-            <li>Developed and implemented QA analysis frameworks and A/B testing for a boutique sports car manufacturer, enabling the successful production and delivery of 500+ vehicles over two years.</li>
-            <li>Spearheaded the company's internal digital transformation by introducing best practices and custom-built software solutions. Reduced response time between surveyors and construction managers by 50% in a major international sailing series.</li>
+            <li style="text-align: justify;">Developed and implemented QA analysis frameworks and A/B testing routine for Ferrari,
+              enabling the successful production and delivery of 500+ boutique vehicles over two
+              years.</li>
+            <li style="text-align: justify;">Spearheaded the company's internal digital transformation by introducing best
+              practices and custom-built software solutions. Reduced response time between
+              surveyors and construction managers by 50% in a major international sailing series.</li>
           </ul>
         </div>
       </div>
@@ -169,7 +178,7 @@
           </div>
           <h3>R&D Intern</h3>
           <ul>
-            <li>Invented and patented novel coating generating electricity from waste heat, with application in energy recovery for automotive and heavy industries. Patent n° <a href="https://patents.google.com/patent/US20180090655A1/en" target="_blank" rel="noopener noreferrer" style="color: #2563eb;">WO2016146855A1</a></li>
+            <li style="text-align: justify;">Invented and patented novel coating generating electricity from waste heat, with application in energy recovery for automotive and heavy industries. Patent n° <a href="https://patents.google.com/patent/US20180090655A1/en" target="_blank" rel="noopener noreferrer" style="color: #2563eb;">WO2016146855A1</a></li>
           </ul>
         </div>
       </div>
@@ -199,7 +208,15 @@
         </div>
       </div>
       <div class="skill-column">
-        <h3>ML & DS</h3>
+        <h3>ML, DS & Cloud</h3>
+        <div class="skill-item">
+          <img src="/skills/ml/openai.svg" alt="Icon" class="skill-icon" />
+          <span>OpenAI API</span>
+        </div>
+        <div class="skill-item">
+          <img src="/skills/ml/gemini.svg" alt="Icon" class="skill-icon" />
+          <span>Gemini API</span>
+        </div>
         <div class="skill-item">
           <img src="/skills/ml/huggingface.svg" alt="Icon" class="skill-icon" />
           <span>Huggingface</span>
@@ -215,6 +232,14 @@
         <div class="skill-item">
           <img src="/skills/ml/sklearn.svg" alt="Icon" class="skill-icon" />
           <span>SciKit-learn</span>
+        </div>
+        <div class="skill-item">
+          <img src="/skills/ml/gcloud.svg" alt="Icon" class="skill-icon" />
+          <span>Google Cloud</span>
+        </div>
+        <div class="skill-item">
+          <img src="/skills/ml/azure.svg" alt="Icon" class="skill-icon" />
+          <span>Azure</span>
         </div>
       </div>
       <div class="skill-column">
