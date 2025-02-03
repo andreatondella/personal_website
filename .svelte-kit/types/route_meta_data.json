@@ -1,5 +1,23 @@
 {
 	"/": [],
+	"/api/spotify/auth": [
+		"src/routes/api/spotify/auth/+server.ts"
+	],
+	"/api/spotify/callback": [
+		"src/routes/api/spotify/callback/+server.ts"
+	],
+	"/api/spotify/check-now-playing": [
+		"src/routes/api/spotify/check-now-playing/+server.ts"
+	],
+	"/api/spotify/now-playing-image": [
+		"src/routes/api/spotify/now-playing-image/+server.ts"
+	],
+	"/api/spotify/now-playing": [
+		"src/routes/api/spotify/now-playing/+server.ts"
+	],
+	"/api/spotify/refresh": [
+		"src/routes/api/spotify/refresh/+server.ts"
+	],
 	"/contact": [],
 	"/resume": []
 }
