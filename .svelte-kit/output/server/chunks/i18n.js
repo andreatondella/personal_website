@@ -4,7 +4,7 @@ import { negotiateLanguagePreferences, bestMatch, resolveRoute } from "@inlang/p
 import { b as base } from "./paths.js";
 import { L as LANG_COOKIE_NAME } from "./constants.js";
 import { $ as getContext } from "./index.js";
-import { k as get } from "./exports.js";
+import { i as get } from "./exports.js";
 let _onSetLanguageTag;
 const sourceLanguageTag = "en";
 const availableLanguageTags = (

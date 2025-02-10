@@ -1,5 +1,6 @@
 let base = "";
 let assets = base;
+const app_dir = "_app";
 const initial = { base, assets };
 function override(paths) {
   base = paths.base;
@@ -13,8 +14,9 @@ function set_assets(path) {
   assets = initial.assets = path;
 }
 export {
-  assets as a,
+  app_dir as a,
   base as b,
+  assets as c,
   override as o,
   reset as r,
   set_assets as s

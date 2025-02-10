@@ -1,19 +1,4 @@
 {
-  "functions": {
-    "api/spotify/check-now-playing": {
-      "schedule": "*/5 * * * *" // Every 5 minutes
-    }
-  },
-  "builds": [
-    {
-      "src": "src/routes/**/*.ts",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "src/routes/**/*.svelte",
-      "use": "@sveltejs/adapter-vercel"
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",

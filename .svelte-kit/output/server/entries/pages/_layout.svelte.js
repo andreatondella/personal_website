@@ -2,7 +2,7 @@ import { S as store_get, T as ensure_array_like, V as unsubscribe_stores, W as b
 import { a as attr, s as setParaglideContext, g as getTranslationFunctions } from "../../chunks/index2.js";
 import { n as normaliseBase, p as page, a as parseRoute, s as serializeRoute, g as getHrefBetween, i as i18n } from "../../chunks/i18n.js";
 import { b as base } from "../../chunks/paths.js";
-import { k as get } from "../../chunks/exports.js";
+import { i as get } from "../../chunks/exports.js";
 import "../../chunks/client.js";
 import "@inlang/paraglide-js/internal/adapter-utils";
 function isExternal(url, currentUrl, base2) {
