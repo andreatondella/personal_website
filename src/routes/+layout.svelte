@@ -34,7 +34,7 @@
           <img class="logo logo-email" src="/email.svg" alt="Contact" />
         </a>
       </div>
-      <span class="footer-date">© 2025 | <a href="#top" class="no-color-link">Andrea Tondella</a></span>
+      <span class="footer-date">© {new Date().getFullYear()} | <a href="#top" class="no-color-link">Andrea Tondella</a></span>
     </div>
     <span>Designed and built by <a href="#top">Andrea Tondella</a> with ♥️ using <a href="https://kit.svelte.dev/" class="external-link">SvelteKit</a></span>
   </div>
