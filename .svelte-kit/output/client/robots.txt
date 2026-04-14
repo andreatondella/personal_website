@@ -1,6 +1,0 @@
-# Hello dear robots. Please follow this rule, will you
-
-User-agent: *
-Disallow: /documents/
-Disallow: /resume
-Sitemap: https://andreatondella.xyz/sitemap.xml
